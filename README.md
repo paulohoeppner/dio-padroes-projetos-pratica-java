@@ -96,4 +96,4 @@ Referência direta ao código-fonte original.
  <hr>
 
 ## Agradecimentos
-Gostaria de agradecer a [DIO](https://www.dio.me/) (Digital Innovation One) e ao professor [Venilton FalvoJr](https://github.com/falvojr) por compatilhar seu conhecimento.
+Gostaria de agradecer a [DIO](https://www.dio.me/) (Digital Innovation One) e ao professor [Venilton FalvoJr](https://github.com/falvojr) por compartilhar seu conhecimento.
