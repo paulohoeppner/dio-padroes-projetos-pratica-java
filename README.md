@@ -1,25 +1,29 @@
 # <div align="center">**Explorando Padrões de Projetos na Prática com Java**</div>
+<br><br>
 
-<div align="center"> <img src="assets\images\bootcamp-dio.png" width="300" height="" hspace="10" style="margin: 50px"/>
+<div align="center"> 
+    <img src="assets\images\bootcamp-dio.png" width="300" height="" hspace="10"/>
 </div>
+<br><br>
 
 <div align="center">
     <img  align="center" src="assets\images\santander-logo.png" width="" height="100em" hspace=""> 
-    <img align="center" src="assets\images\TQI-logo.png" width="" height="60em" hspace="40">
+    <img align="center" src="assets\images\TQI-logo.png" width="" height="60em" hspace="20">
+    <img align="center" src="assets\images\tonnie-logo.png" width="" height="60em" hspace="40">
 </div>
-<br>
+<br><br>
 
 <div align="center">
     <img align="center" src="assets\images\bootcamp-santander.png" width="" height="250em" hspace="20">
     <img align="center" src="assets\images\bootcamp-TQI.png" width="" height="250em" hspace="20">
+    <img align="center" src="assets\images\bootcamp-tonnie.png" width="" height="250em" hspace="20">
 </div>
 <br><br>
 
-
 <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" hspace="10" style="margin: 10px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" hspace="10" style="margin: 10px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="50" hspace="10" style="margin: 10px"/>             
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" hspace="10"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" hspace="10"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="50" hspace="10"/>             
 </div>
 <br>
 <hr>
@@ -28,7 +32,7 @@
 ## Introdução
 Olá,
 
-Esse repositório corresponde ao projeto "Explorando Padrões de Projetos na Prática com Java" da [DIO](https://www.dio.me/) (Digital Innovation One).
+Esse repositório corresponde ao projeto "Explorando Padrões de Projetos na Prática com Java" da [DIO - Digital Innovation One](https://www.dio.me/).
 <hr>
 
 ## Objetivo
@@ -56,17 +60,18 @@ Realizar futuras implementações para evolução do projeto inicial (projeto ba
 
 ## Tecnologias Utilizadas
 
-- Java <img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="150" height="40" hspace="5" style="margin-left: 10px"/>
-
-- Spring Boot <img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="30" hspace="5" style="margin-left: 10px"/>
-
-- Git <img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="170" height="30" hspace="5" style="margin-left: 10px"/>
+<div>
+    <img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="75" height="50" hspace="5"/>
+    <img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="75" height="40" hspace="5"/>
+    <img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="75" height="40" hspace="5"/>
+</div>
 <hr>       
 
 ## Cursos Envolvidos
 ### Bootcamp:
-- Santander Bootcamp 2023 - Fullstack Java+Angular
-- Code Update TQI - Backend com Kotlin e Java
+- Santander Bootcamp 2023 - Fullstack Java+Angular;
+- Code Update TQI - Backend com Kotlin e Java;
+- Coding The Future TONNIE - Java AI Powered.
 
 #### **Ganhando Produtividade com Spring Framework e Java:**
 - Explorando Padrões de Projetos na Prática com Java.
