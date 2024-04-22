@@ -7,16 +7,16 @@
 <br><br>
 
 <div align="center">
-    <img  align="center" src="assets\images\santander-logo.png" width="" height="100em" hspace=""> 
-    <img align="center" src="assets\images\TQI-logo.png" width="" height="60em" hspace="20">
-    <img align="center" src="assets\images\tonnie-logo.png" width="" height="60em" hspace="40">
+    <img align="center" src="assets\images\santander-logo.png" width="" height="70em" hspace=""> 
+    <img align="center" src="assets\images\TQI-logo.png" width="" height="40em" hspace="20">
+    <img align="center" src="assets\images\tonnie-logo.png" width="" height="40em" hspace="40">
 </div>
 <br><br>
 
 <div align="center">
-    <img align="center" src="assets\images\bootcamp-santander.png" width="" height="250em" hspace="20">
-    <img align="center" src="assets\images\bootcamp-TQI.png" width="" height="250em" hspace="20">
-    <img align="center" src="assets\images\bootcamp-tonnie.png" width="" height="250em" hspace="20">
+    <img align="center" src="assets\images\bootcamp-santander.png" width="" height="180em" hspace="20">
+    <img align="center" src="assets\images\bootcamp-TQI.png" width="" height="180em" hspace="20">
+    <img align="center" src="assets\images\bootcamp-tonnie.png" width="" height="180em" hspace="20">
 </div>
 <br><br>
 
