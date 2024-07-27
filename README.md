@@ -7,16 +7,17 @@
 <br><br>
 
 <div align="center">
-    <img align="center" src="assets\images\santander-logo.png" width="" height="70em" hspace=""> 
-    <img align="center" src="assets\images\TQI-logo.png" width="" height="40em" hspace="20">
-    <img align="center" src="assets\images\tonnie-logo.png" width="" height="40em" hspace="40">
+    <img align="center" src="assets\images\santander-logo.png" width="" height="70em" hspace="80"> 
+    <img align="center" src="assets\images\TQI-logo.png" width="" height="40em" hspace="">
+    <img align="center" src="assets\images\tonnie-logo.png" width="" height="40em" hspace="30">
 </div>
 <br><br>
 
 <div align="center">
-    <img align="center" src="assets\images\bootcamp-santander.png" width="" height="180em" hspace="20">
-    <img align="center" src="assets\images\bootcamp-TQI.png" width="" height="180em" hspace="20">
-    <img align="center" src="assets\images\bootcamp-tonnie.png" width="" height="180em" hspace="20">
+    <img align="center" src="assets\images\bootcamp-santander-2023.png" width="" height="140em" hspace="20">
+    <img align="center" src="assets\images\bootcamp-logo-2024.png" width="" height="140em" hspace="20">
+    <img align="center" src="assets\images\bootcamp-TQI.png" width="" height="140em" hspace="20">
+    <img align="center" src="assets\images\bootcamp-tonnie.png" width="" height="140em" hspace="20">
 </div>
 <br><br>
 
@@ -37,7 +38,7 @@ Esse repositório corresponde ao projeto "Explorando Padrões de Projetos na Pr�
 
 ## Objetivo
 
-Criado uma solução que explore o conceito de Padrões de Projeto na prática. Para isso, foi reproduzido os projetos criados durante as aulas. Padrões de Projeto usando Java Puro e Padrões de Projeto usando Spring.
+Continuar o evoluindo no estudo do Design Patterns com Java para futuros projetos e aplicações. 
 
 ### Padrões de Projeto usando Java Puro
 Este projeto explorou alguns padrões usando Java puro:
@@ -71,10 +72,12 @@ Realizar futuras implementações para evolução do projeto inicial (projeto ba
 ### Bootcamp:
 - Santander Bootcamp 2023 - Fullstack Java+Angular;
 - Code Update TQI - Backend com Kotlin e Java;
-- Coding The Future TONNIE - Java AI Powered.
+- Coding The Future TONNIE - Java AI Powered;
+- Santander 2024 - Backend com Java
 
 #### **Ganhando Produtividade com Spring Framework e Java:**
-- Explorando Padrões de Projetos na Prática com Java.
+- Explorando Padrões de Projetos na Prática com Java;
+- Design Patterns com Java: Dos Clássicos (GoF) ao Spring Framework.
 <hr>
 
 ## Repositório Original do GitHub
@@ -89,4 +92,4 @@ Referência direta ao código-fonte original.
  <hr>
 
 ## Agradecimentos
-Gostaria de agradecer a [DIO](https://www.dio.me/) (Digital Innovation One) e ao professor [Venilton FalvoJr](https://github.com/falvojr) por compartilhar seu conhecimento.
+Gostaria de agradecer a [DIO](https://www.dio.me/) (Digital Innovation One) e ao instrutor [Venilton FalvoJr](https://github.com/falvojr) por compartilhar seu conhecimento.
